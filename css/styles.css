@@ -97,6 +97,7 @@ p {
 
 /* Pricing section*/
 #pricing {
+  background-color: #e3fdfd;
   text-align: center;
   padding: 100px;
 }
@@ -115,10 +116,10 @@ p {
 }
 
 .text {
-  font-size: 4rem;
-  color: white;
+  font-size: 1.6rem;
+  color: black;
   font-family: "Montserrat-Black";
-  padding: 5% 15%;
+  padding: 2% 10%;
 }
 
 .cta-button {
@@ -140,6 +141,13 @@ p {
   color: #ff4c88;
 }
 
+/* about us */
+
+#aboutus{
+  text-align: center;
+
+  background-color:#e3fdfd;
+}
 /* background image */
 .hero-image {
   background-image: url("kurd.jpg");
