@@ -191,9 +191,9 @@ Section back-to-top icon */
   margin: 0 3em 3em 0;
   border-radius: 50%;
   padding: .25em;
-  width: 80px;
-  height: 80px;
-  background-color: #F8F8F8;
+  width: 60px;
+  height: 60px;
+  background-color: #bad7df;
 
   &.show {
     visibility: visible;
@@ -207,8 +207,8 @@ Section back-to-top icon */
 
   svg {
     fill: #000;
-    width: 24px;
-    height: 12px;
+    width: 10px;
+    height: 8px;
   }
 
   &:hover {
